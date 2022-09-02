@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">noticesAppUser</string>
+    <string name="noticeText">noticeText</string>
 </resources>
